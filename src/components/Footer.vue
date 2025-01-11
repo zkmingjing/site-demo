@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>&copy; 2023 我的博客</p>
+    <p>&copy; 2025 我的博客</p>
   </footer>
 </template>
 
